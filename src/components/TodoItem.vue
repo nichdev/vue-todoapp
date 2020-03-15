@@ -37,5 +37,6 @@ export default {
     .del {
         border-radius: 8px;
         color: #AE1100;
+        margin-left: 16px;
     }
 </style>

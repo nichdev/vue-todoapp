@@ -1,6 +1,6 @@
 <template>
     <header class="header">
-        <h1>Todo List</h1>
+        <h1>Agnes' List</h1>
         <div id="nav">
             <router-link to="/">
                 <button>Home</button>
